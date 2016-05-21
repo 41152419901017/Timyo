@@ -1,0 +1,645 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	list-style: none;
+}
+
+
+.header{width: 100%;
+
+	background: url("images/Z.jpg");
+	
+	background-repeat: no-repeat;
+}
+.clealfled::after{
+	content: "";
+	clear: both;
+}
+.navbar{
+
+border: none;
+padding-top:14px; 
+}
+.navbar-default{
+	background: none;
+}
+.navbar .navbar-right{
+	height: 78px;
+	padding-top: 20px;
+}
+.container .font{
+	font-size: 56px;
+	font-weight: 100;
+	color: #404040;
+	line-height: 60px;
+
+}
+
+
+.navbar .navbar-right a{
+	font-size: 28px;
+	font-weight: 300;
+	color: #000!important;
+}
+.navbar-header button{
+	margin-top: 30px;
+} 
+.col_left{
+	padding-bottom: 40px;
+	padding-top: 60px;
+}
+
+
+.container .vary{
+	font-size: 26px;
+	font-weight: 100;
+}
+
+.container .font1{
+	padding-top: 15px;
+}
+.container .font1 a{
+	
+	font-weight: 300;
+	font-size: 20px;
+	color: rgb(0,136,204);
+}
+
+
+
+
+ .btn_4 {
+ 	padding: 20px 0;
+    width: 100%;
+    z-index: 100;
+    overflow: hidden;
+    padding-right: 80px;
+}
+.btn_4 ul{
+width: 110px;
+}
+ .iph .btn_4 li{
+	width: 20px;
+	height: 20px;
+	margin-left: 2px;
+	border-radius: 50%;
+	border: 2px solid white;
+}
+
+.navbar-collapse{
+	height:215px;
+	overflow-y: visible!important;
+}
+
+
+
+
+.abcd {
+	padding-top: 56px;
+	padding-bottom: 56px;
+	color: #404040;
+}
+
+.abcd h3{
+	font-size: 34px;
+	
+	font-weight: 100;
+	margin: 17px 0;
+}
+
+.abcd .cur{
+	font-size: 14px;
+  font-weight: 100px;
+
+}
+
+.img_App{
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.abcd .dropdown-menu{
+	margin-top:0;
+	width: 425px; 
+	height: 198px;
+	overflow-y:scroll; 
+}
+
+
+   .abcd .navbar-form{
+   	margin-bottom: 33px!important;
+
+   } 
+
+.abcd .cho{
+	font-size: 20px;
+
+}
+.abcd .cho1{
+padding-top: 70px;border-top: 1px solid #e5e5e5;
+
+
+}
+.abcd .ema{
+	margin: 18px 0;
+	outline: none;
+	padding: 9px 144px;
+	height: 49px;
+	font-size: 18px;
+  color:rgba(64,64,64,0.7);
+   
+}
+.abcd .btn2 button:first-child{
+	background: url("images/Andro.jpg");
+	background-size: 100%;
+	width: 50px;
+	height: 50px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	opacity: 0.3;
+}
+.abcd .btn2 button:last-child{
+	background: url("images/OS.jpg");
+	background-size: 100%;
+	width: 50px;
+   height: 50px;
+   border: none;
+   margin-left: 10px;
+   outline: none;
+   cursor: pointer;
+   opacity: 0.3;
+}
+.abcd .btn2 button:hover{
+	opacity: 1;
+}
+
+/*you don't need to answer every email as soon as*/
+.box{width: 100%;
+	background: #f7f7f7;
+}
+.youinbox{
+	padding-top: 168px;
+	padding-bottom: 112px;
+}
+
+.box_head{
+	line-height: 60px;
+	font-size: 56px;
+	font-weight: 100;
+}
+.right_p{
+	padding-right: 50px;
+	padding-top: 42px;
+	padding-bottom: 40px;
+	font-weight: 100;
+	color: #404040;
+	font-size: 21px;
+}
+.right_2{
+    padding-right: 50px;
+		font-weight: 100;
+	color: #404040;
+	font-size: 21px;
+}
+ /*<!-- focus on what MATTERS TODAY -->*/
+
+.helps{
+	padding-top: 56px;
+}
+
+.helps .foucs{
+	margin-top: 56px;
+	font-size: 56px;
+	font-weight: 100;
+}
+.helps .foucs1{
+	font-weight: 100;
+	padding-top: 30px;
+	font-size: 22px;
+	color: rgb(0,136,204);
+}
+
+.helps .li4{
+	margin-top: 70px;
+	padding-left: 126px;
+}
+
+.helps .li4 li{
+	margin-top: 28px;
+	font-weight: 200;
+	font-weight: 100;
+}
+.helps .li4 li img{
+	padding-right: 10px;
+}
+.helps .li4 li span{
+	padding-left: 10px;
+}
+.helps .li4 li a{
+	font-size: 20px;
+}
+.helps .li4 li p{
+	margin-bottom: 0;
+	font-size: 18px;
+}
+
+
+@media(min-width: 1600px){
+.header{
+	background-size: 100%;
+}
+
+}@media(min-width: 1200px){
+	.small_img{
+		width: 485px;
+	}
+
+.desktop h3,.mission h3{
+
+	margin-top: 168px;
+	margin-bottom: 112px;
+	font-size: 56px;
+}
+
+}
+
+
+@media(max-width: 1200px   ){
+
+
+
+.expectations .img1 img{
+	width: 100%;
+}
+
+}
+
+
+@media(min-width: 768px){
+
+		.expectations .img1{
+			padding: 0 70px;
+		} 
+
+		.upgrade .up_left {
+ 	padding-top: 112px;
+ }
+
+}
+
+
+@media(min-width: 1024px){
+
+	.expectations .img1{
+	/*width: 675px;*/
+
+	padding: 0;
+	padding-right: 30px;
+}
+
+
+
+.expectations h3{
+	font-size: 52px;
+	margin-top: 52px;
+
+}
+.exelco{
+	margin-top: 13px;
+	margin-bottom: 39px;
+	font-size: 26px;
+}
+.upgrade h3{
+	font-size: 56px;
+	margin-top: 168px;
+}
+
+}
+
+
+
+
+
+@media(max-width: 1024px){
+	.header{
+		background: #f7f7f7;
+	}
+   .container .font{
+   	font-size: 40px;
+   	line-height: 45px;
+   }
+.abcd .navbar-form{
+
+	display: none;
+}
+.abcd .cho1{
+	border: none;
+	padding-top: 20px;
+}
+.expectations .img1 {
+	padding-left: 70px;
+}
+.exelco{
+	margin-top: 20px;
+	margin-bottom: 60px;
+	font-size: 40px;
+}
+
+}
+@media(min-width: 992px){
+	
+      .upgrade .up_right{
+      	padding-left: 126px;
+      	margin-top: 70px;
+      	margin-bottom: 84px;
+      }
+   .btn_4 ul{
+   	float: right;
+   }
+
+
+ 
+}
+
+
+
+
+@media(max-width:992px  ){
+  .helps .left_img{
+  padding-left: 200px;
+  margin-top: 28px;
+   margin-bottom: 84px;
+     }
+
+.helps .li4{
+	margin-top: 0;
+	padding-left: 45px;
+	margin-bottom: 84px;
+}
+.helps .li4 li:first-child{
+	margin-top: 0;
+}
+
+	.iph{
+		text-align: center!important;
+	}
+
+.btn_4 ul{
+	margin-right:300px;
+
+}
+
+}
+@media(min-width:768px){
+
+.up_right li{
+padding-left: 42px;
+}
+  .btn_4 ul{
+   	margin: auto;
+   }
+
+
+}
+
+@media(max-width:768px){
+
+.iph{
+	float: left;
+	width: 40%;
+}
+
+.left{
+	float: left;
+	width: 60%;
+}
+
+.iph img{
+	width: 100%;
+
+}
+.navbar{
+	padding-top: 28px;
+}
+
+.btn_4 ul{
+	float: right;
+	margin-right: 0;
+
+}
+
+.helps .left_img{
+   padding-left:0!important; 
+   width: 100%;
+   margin-bottom: 0;
+   padding-right: 35px;
+}
+.helps .li4{
+	margin-top: 84px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+	.expectations .img1{
+		
+		padding: 0 70px ;
+	}
+.expectations .img1 img{
+	width: 100%;
+}
+
+
+}
+
+@media(max-width: 640px){
+	.iph{
+		width: 33%;
+	}
+	.left{
+		width: 67%;
+	}
+
+
+
+
+}
+ 
+ @media(min-width:480px ){
+
+ 	.desktop h3,.mission h3{
+
+	margin-top: 120px;
+	margin-bottom:80px;
+	font-size: 40px;
+}
+.upgrade h3{
+	font-size: 40px;
+	margin-top: 120px;
+}
+
+
+ }
+
+
+@media(max-width: 480px){
+	 .container .font{
+		font-size: 36px;
+	}
+	.iph{
+		width: 100%;
+	}
+	.iph img{
+		max-width: 200px;
+	}
+	.iph .btn_4 li{
+		width: 15px;
+		height: 15px;
+		margin-left: 2px;
+		border-radius: 50%;
+		border: 1px solid white;
+	}
+.abcd .ema{
+	padding: 12px 0 9px 9px ;
+}
+
+	.expectations .img1{
+		
+		padding: 0 28px ;
+	}
+		.desktop h3,.mission h3{
+
+	margin-top: 40px;
+	margin-bottom:40px;
+	font-size: 40px;
+}
+
+.exelco{
+	margin-top: 23px;
+	margin-bottom: 11px;
+	font-size: 23px;
+}
+.upgrade h3{
+	margin: 40px 0!important;
+}
+
+}
+
+@media(max-width: 320px){
+
+  .desktop ul li img{
+  	width: 20%!important;
+  }
+.upgrade h3{
+	margin: 30px 0;
+	font-size: 30px;
+}
+
+}
+
+
+
+.expectations p{
+	font-size: 20px;
+	margin-top: 40px;
+}
+
+
+.expectations .img1 img{
+	max-width: 600px!important;
+}
+.comput{
+	padding-top: 112px;
+	padding-bottom: 28px;
+	background: #f7f7f7;
+	font-weight: 100;
+}
+.comput h3{
+		font-weight: 100;
+}
+/*Timyo works on your desktop as well*/
+.desktop {
+	margin-bottom: 112px;
+}
+.desktop ul li img{
+	max-width: 360px;
+	width: 100%
+
+}
+
+.desktop .download{
+	margin: 20px 0;
+}
+
+.desktop h3{
+	font-weight: 100;
+}
+.mission{
+	
+	background: #f5f5f5;
+	padding-bottom: 112px;
+}
+
+.exelco_p{
+	font-size: 21px;
+	width: 90%;
+	text-align: left;
+	font-weight: 100;
+	margin-bottom: 0;
+}
+.upgrade {
+	font-weight: 100;
+}
+.up_left img{width: 100%;
+	max-width: 400px!important;
+}
+.up_right li {
+	margin: 28px 0;
+}
+ .up_right li span:first-child{
+ 
+  margin-right: 10px;
+
+ }
+.up_right li span:last-child{
+ 
+ font-size: 20px;
+
+ }
+.up_right li p{
+	font-size: 18px;
+}
+.up_right li:last-child{
+	margin-top: 66px;
+}
+.footer{
+	margin-bottom: 30px;
+}
+.footer .page-header{
+	margin-top: 0;
+}
+
+.footer p:last-child{
+	font-size: 12px;
+}
+.footer .sec{
+	padding-top: 10px;
+	margin-bottom: 0;
+}
+.footer .sec a{
+	color: #1b242f;
+}
+
+.footer .sec a:hover{
+	color: red;
+}
+.fied img{
+	height: 60px;
+}
+.fied{
+	position: fixed;
+	bottom: 48px;
+	right: 16px;
+}
